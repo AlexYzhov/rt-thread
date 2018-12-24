@@ -1,0 +1,17 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armjlink2.dll" 
+
+"F:\rt-thread-master\bsp\imxrt\imxrt1050-SphinxEVK\Debug\Exe\project.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\debugger\NXP\iMXRT.dmac" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\debugger\NXP\iMXRT_Trace.dmac" 
+
+--flash_loader="F:\rt-thread-master\bsp\imxrt\imxrt1050-SphinxEVK\..\Libraries\imxrt1050\devices\MIMXRT1052\iar\RT1052_SphinxEVK.board" 
+
+
+
+
